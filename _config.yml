@@ -1,0 +1,28 @@
+name: TapTender
+favicon: null
+layout_spectrum: 0.27450494933873415
+typography_spectrum: 0.9745587788056582
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9983377135358751
+  lightness: 0.8799148914404213
+  saturation: 0.9346451300662011
+  rhythmicContrast: 0.7639478428754956
+purpose: []
