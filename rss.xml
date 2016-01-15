@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TapTender]]></title>
-        <description><![CDATA[TapTender]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Toidu tellimise app]]></title>
+        <description><![CDATA[Toidu tellimise app]]></description>
+        <link>https://thegrid.ai/taptender/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 12:38:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 13:00:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/taptender/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hei, see on üks harjutus. Mul pole õrna aimu, mida ma siin teen</p>]]></description>
+            <link>https://thegrid.ai/taptender/19bf6ad7-6e22-4a8e-94dd-5dc75c2d20a4/index.html</link>
+            <guid isPermaLink="false">19bf6ad7-6e22-4a8e-94dd-5dc75c2d20a4</guid>
+            <pubDate>Fri, 15 Jan 2016 13:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Instagram]]></title>
             <description><![CDATA[<article><h1>Instagram</h1><p></p></article>]]></description>
